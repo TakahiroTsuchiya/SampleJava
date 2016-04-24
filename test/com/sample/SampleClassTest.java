@@ -8,6 +8,12 @@ import com.sample.SampleClass;
 
 import junit.framework.TestCase;
 
+/**
+ * TODO
+ * 
+ * @author Takahiro Tsuchiya.
+ *
+ */
 @RunWith(JUnit4.class)
 public class SampleClassTest extends TestCase {
 

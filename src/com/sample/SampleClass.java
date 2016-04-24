@@ -1,5 +1,11 @@
 package com.sample;
 
+/**
+ * TODO
+ * 
+ * @author Takahiro Tsuchiya.
+ *
+ */
 public class SampleClass {
 
 	public boolean method0001(int a, int b) {
